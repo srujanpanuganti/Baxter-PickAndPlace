@@ -16,7 +16,7 @@ The result can be found in the `output/project_4_submission.avi`
 ## See how it works
 
 <p align="center">
-<img src="images/Output.gif" alt="output" width="480">
+<img src="images/Output.gif" alt="output" width="640">
 </p>
 <p align="center">
 <em>Baxter arm Picking up a cylindrical object and placing it</em>
